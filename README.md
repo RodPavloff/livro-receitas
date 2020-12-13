@@ -5,11 +5,7 @@
 
 
 
-##### Projeto para aprendizado de conceitos do Git e Github.
+##### *Projeto para aprendizado de conceitos do Git e Github.*
 
 ##### Bootcamp AVANADE 2021! :rocket:
-
-
-
-#####  
 
